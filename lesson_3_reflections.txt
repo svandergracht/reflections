@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
   Remote repositories can be used across multiple devices or between multiple people.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  Then you can decide what commits you want on your local files.
