@@ -4,3 +4,5 @@ Why might you want to always pull changes manually rather than having Git automa
   Then you can decide what commits you want on your local files.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
   Forks only occur on GitHub while branches and clones can appear anywhere.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  Then you have direct access to the most up-to-date version of the project.
